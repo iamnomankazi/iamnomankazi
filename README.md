@@ -1,6 +1,6 @@
 <a href="https://ibb.co/vsQvzjq"><img src="https://i.ibb.co/dbLJK5M/Noman-Kazi.png" alt="Noman-Kazi" width=999></a>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/45010/screenshots/14281687/media/79f87d23670e2144bd2d5e2742185c8e.png?compress=1&resize=1600x1200&vertical=top">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/45010/screenshots/14281687/media/79f87d23670e2144bd2d5e2742185c8e.png?compress=1&resize=1600x1200&vertical=top">
 
 <h2> Hey there!👋 I'm Noman.</h2>
 
