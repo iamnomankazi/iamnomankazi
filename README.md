@@ -9,7 +9,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying MS in CS at the University of Eastern Finland.
 - 🌱 &nbsp; Learning more about Docker, Kubernetes and Cloud Architecture.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
